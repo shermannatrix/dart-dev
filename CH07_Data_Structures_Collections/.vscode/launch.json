@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart CH07",
-            "program": "growable_list.dart",
+            "program": "using_queues.dart",
             "request": "launch",
             "type": "dart"
         }
