@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart CH08",
-            "program": "catchError_whenComplete.dart",
+            "program": "backend_server.dart",
             "request": "launch",
             "type": "dart"
         }
